@@ -1,0 +1,10 @@
+My SQL : MySQL est un système de gestion de bases de données relationnelles. Il est distribué sous une double licence GPL et propriétaire
+
+
+Postgre SQL : PostgreSQL est un système de gestion de base de données relationnelle et objet. C'est un outil libre disponible 
+selon les termes d'une licence de type BSD. Ce système est comparable à d'autres systèmes de gestion de base de données,
+ qu'ils soient libres, ou propriétaires
+
+
+SQL Server : Microsoft SQL Server est un système de gestion de base de données en langage SQL incorporant entre autres un SGBDR 
+développé et commercialisé par la société Microsoft.
